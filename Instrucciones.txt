@@ -1,0 +1,6 @@
+--Para extraer el proyecto siga las instrucciones:
+
+Extraer 'TP Programación.part1.rar' para su completa extracción.
+
+--El archivo .rar cuenta con el proyecto en VS, y con las 'Querys' (Con las tablas, inserts, vistas y procedimientos).
+
